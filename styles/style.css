@@ -1,5 +1,12 @@
 body {
-  margin: 0; /*removes the corners*/
+  margin: 0;
+  /*removes the corners*/
   /* Apply Roboto Font to the body */
   font-family: 'Roboto', sans-serif;
+}
+
+.hero {
+  background-image: url(../assets/repeated-square-dark.webp);
+  /* Add the bg image for the hero section*/
+  
 }
