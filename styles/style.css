@@ -1,4 +1,5 @@
 body {
   /* Apply Roboto Font to the body */
+  margin: 0;
   font-family: 'Roboto', sans-serif;
 }
