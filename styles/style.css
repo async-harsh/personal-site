@@ -12,4 +12,6 @@ body {
   background-size: cover;
   /* text color*/
   color: #fff;
+  /* Align text to the center */
+  text-align: center;
 }
