@@ -1,6 +1,6 @@
 body {
-  margin: 0;
   /*removes the corners*/
+  margin: 0;
   /* Apply Roboto Font to the body */
   font-family: 'Roboto', sans-serif;
 }
