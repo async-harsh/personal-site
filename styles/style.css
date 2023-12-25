@@ -6,6 +6,8 @@ body {
 }
 
 .hero {
+  /* Add black bg color */
+  background-color: black;
   /*Add the bg image for the hero section*/
   background-image: url(../assets/repeated-square-dark.webp);
   /*Ensure the bg img covers the entire section */
