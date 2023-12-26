@@ -3,15 +3,16 @@ body {
   margin: 0;
   /* Apply Roboto Font to the body */
   font-family: 'Roboto', sans-serif;
-}
-
-.hero {
-  /* Add black bg color */
-  background-color: black;
-  /*Add the bg image for the hero section*/
+  /* Add the bg image of the website*/
   background-image: url(../assets/repeated-square-dark.webp);
   /*Ensure the bg img covers the entire section */
   background-size: cover;
+  /* Add black bg color */
+  background-color: black;
+
+}
+
+.hero {
   /* text color*/
   color: #fff;
   /* Align text to the center */
