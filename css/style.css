@@ -27,9 +27,12 @@ ul {
 li a{
   list-style-type: none;
   text-decoration: none;
+  /* Sets the link color */
+  color: #ccc;
 }
 
 /* push the second nav link to the right */
 li:last-child {
+  /* To push the second nav link to the right */
   margin-left: auto;
 }
