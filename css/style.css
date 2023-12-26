@@ -18,3 +18,8 @@ body {
   /* Align text to the center */
   text-align: center;
 }
+
+ul {
+  display: flex;
+  gap: 2rem;
+}
