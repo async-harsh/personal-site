@@ -24,6 +24,7 @@ ul {
   gap: 2rem;
 }
 
-li{
+li a{
   list-style-type: none;
+  text-decoration: none;
 }
